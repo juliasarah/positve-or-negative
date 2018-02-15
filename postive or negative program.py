@@ -1,4 +1,4 @@
-num = 5
+num=raw_input("")
 
 if num > 0:
  
